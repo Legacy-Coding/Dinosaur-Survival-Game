@@ -18,21 +18,21 @@ body{
     background-image: url(dino.png);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 233px;
-    height: 114px;
+    width: 252px;
+    height: 256px;
     position: absolute;
-    bottom:0;
-    left: 52px;
+    bottom: 0;
+    left: 56px;
 }
 
 .obstacle{
-    width: 166px;
-    height: 113px;
+    width: 311px;
+    height: 315px;
     background-image: url(dragon.png);
     background-size: cover;
     position: absolute;
-    bottom: 0;
-    left: 44vw;
+    bottom: -7px;
+    left: 52vw;
 }
 
 .animateDino{

@@ -13,7 +13,7 @@ document.onkeydown = function (e) {
         dino.classList.add('animateDino');
         setTimeout(() => {
             dino.classList.remove('animateDino')
-        }, 700);
+        }, 900);
     }
     if (e.keyCode == 39) {
         dino = document.querySelector('.dino');
